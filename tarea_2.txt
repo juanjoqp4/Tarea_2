@@ -8,7 +8,7 @@
 		     De 6 AM a 8 AM-->Clase Calculo I
 		     De 8 AM a 10 AM-->Clase Informatica II
 		     De 10 AM a 12 PM-->Clase Ingles I
-		     De 2 PM a 3 PM-->Estudiar Geometria V y A
+		     De 2 PM a 3 PM-->Estudiar Geometria V y A // No hice nada
 		     De 3 PM a 5 PM-->Partidos Champions
 		     De 5 PM a 7 PM-->Estudiar Algebra y Trigonometria
 		     De 8 PM a 9 PM-->Repaso Lectoescritura 
@@ -18,13 +18,13 @@
 		     De 2 PM a 4 PM-->Clase Geometria V y A
 		     De 4 PM a 6 PM-->Clase Algebra y Trigonometria
 		     De 6 PM a 8 PM-->Clase Lectoescritura
-		     De 8:30 PM a 9:30 PM-->Repaso materias del dia siguiente de clases anteriores 
+		     De 8:30 PM a 9:30 PM-->Repaso materias del dia siguiente de clases anteriores // No lo hice
 
 16 de febrero / Jueves-->Iniciar dia 5:20 AM
-		     De 6 AM a 8 AM-->Clase Calculo I
+		     De 6 AM a 8 AM-->Clase Calculo I // No me levante
 		     De 8 AM a 10 AM-->Clase Informatica II
 		     De 10 AM a 12 PM-->Clase Ingles I
-		     De 2 PM a 4 PM-->Estudiar Geometria V y A
+		     De 2 PM a 4 PM-->Estudiar Geometria V y A // Repeti la clase de Calculo
 		     De 5 PM a 7 PM-->Estudiar Algebra y Trigonometria
 		     De 8 PM a 10 PM-->Partido de Nacional
 
