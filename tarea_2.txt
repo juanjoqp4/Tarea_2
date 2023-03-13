@@ -124,10 +124,10 @@
 
 2 de Marzo / Jueves-->Iniciar dia 5:20 AM
 		     De 6 AM a 8 AM-->Clase Calculo I
-		     De 8 AM a 10 AM-->Clase Informatica II
-		     De 10 AM a 12 PM-->Clase Ingles I
+		     De 8 AM a 10 AM-->Clase Informatica II // No hubo clase
+		     De 10 AM a 12 PM-->Clase Ingles I 
 		     De 2 PM a 4 PM-->Estudiar Geometria V y A
-		     De 5 PM a 7 PM-->Estudiar Algebra y Trigonometria
+		     De 5 PM a 7 PM-->Estudiar Algebra y Trigonometria // No lo hice
 		     De 8 PM a 9 PM-->Repaso Lectoescritura
 
 3 de Marzo / Viernes-->Iniciar dia 7:00 AM
@@ -135,31 +135,32 @@
 		     De 10 AM a 1 PM-->Laboratorio Informatica II
 		     De 2 PM a 4 PM-->Clase Geometria V y A
 		     De 4 PM a 6 PM-->Clase Algebra y Trigonometria
-		     De 6 PM a 8 PM-->Clase Lectoescritura 
+		     De 6 PM a 8 PM-->Clase Lectoescritura //Estudie Geometria V y A de 6 PM a 9 PM
+		     //De 9 PM a 10 PM Viaje Universidad/Casa 
 
-4 de Marzo / Sábado-->Iniciar dia 9/10 AM
+4 de Marzo / Sábado-->Iniciar dia 9/10 AM // Inicie dia 7/8 AM
 		     De 11 AM a 12:30 PM--> Estudiar Ingles I
 		     De 1 PM a 3 PM-->Estudiar Calculo I
-		     De 4 PM a 6 PM-->Estudiar Informatica II
-		     De 6:30 PM a 10:30 PM-->Espacio para tareas
+		     De 4 PM a 6 PM-->Estudiar Informatica II // Estudie Geometria V y A
+		     De 6:30 PM a 10:30 PM-->Espacio para tareas // Estudie Geometria V y A	
 
 5 de Marzo / Domingo-->Iniciar dia 9/10 AM
-		     De 10 AM a 12 PM--> Estudiar Geometria V y A
-		     De 1 PM a 3 PM-->Estudiar Algebra y Trigonometria
-		     De 4 PM a 5 PM-->Estudiar Informatica II
-		     De 6 PM a 10:30 PM-->Espacio para tareas
+		     De 10 AM a 12 PM--> Estudiar Geometria V y A // Trabaje en practica 2
+		     De 1 PM a 3 PM-->Estudiar Algebra y Trigonometria // Trabaje en practica 2
+		     De 4 PM a 5 PM-->Estudiar Informatica II // Trabaje en practica 2
+		     De 6 PM a 10:30 PM-->Espacio para tareas // Estudie Geometria V y A
 
-6 de Marzo / Lunes-->Iniciar dia 9 AM
-		   De 11 AM a 12:30 PM--> Estudiar Ingles I
-		   De 1 PM a 3 PM-->Estudiar Calculo I
+6 de Marzo / Lunes-->Iniciar dia 9 AM // Inicie 7 AM
+		   De 11 AM a 12:30 PM--> Estudiar Ingles I // De 9 a 1 trabaje en practica 2
+		   De 1 PM a 3 PM-->Estudiar Calculo I // De 2 a 5 trabaje en practica 2
 		   De 4 PM a 6 PM-->Estudiar Informatica II
-		   De 6:30 PM a 9:30 PM-->Espacio para tareas
+		   De 6:30 PM a 9:30 PM-->Espacio para tareas // De 10 PM a 10:30 PM revise lectoescritura
 
 7 de Marzo / Martes-->Iniciar dia 5:20 AM
 		     De 6 AM a 8 AM-->Clase Calculo I
-		     De 8 AM a 10 AM-->Clase Informatica II
+		     De 8 AM a 10 AM-->Clase Informatica II	//No hubo clase
 		     De 10 AM a 12 PM-->Clase Ingles I
-		     De 2 PM a 4 PM-->Estudiar Geometria V y A
+		     De 2 PM a 4 PM-->Estudiar Geometria V y A	//No lo hice
 		     De 5 PM a 7 PM-->Estudiar Algebra y Trigonometria
 		     De 8 PM a 9 PM-->Repaso Lectoescritura 
 
@@ -174,9 +175,10 @@
 		     De 6 AM a 8 AM-->Clase Calculo I
 		     De 8 AM a 10 AM-->Clase Informatica II
 		     De 10 AM a 12 PM-->Clase Ingles I
-		     De 2 PM a 4 PM-->Estudiar Geometria V y A
-		     De 5 PM a 7 PM-->Estudiar Algebra y Trigonometria
-		     De 8 PM a 9 PM-->Repaso Lectoescritura
+		     De 2 PM a 4 PM-->Estudiar Geometria V y A // Trabaje en practica 2
+		     De 5 PM a 7 PM-->Estudiar Algebra y Trigonometria // Trabaje en practica 2
+		     De 8 PM a 9 PM-->Repaso Lectoescritura // Trabaje en practica 2
+		     //Hasta la 1 AM -->Corregi y depure practica 2
 
 10 de Marzo / Viernes-->Iniciar dia 7:00 AM
 		     De 8 AM a 9:30 AM-->Viaje Casa/Universidad
@@ -187,12 +189,12 @@
 
 11 de Marzo / Sábado-->Iniciar dia 9/10 AM
 		     De 11 AM a 12:30 PM--> Estudiar Ingles I
-		     De 1 PM a 3 PM-->Estudiar Calculo I
+		     De 1 PM a 3 PM-->Estudiar Calculo I // Estudie Geometria V y A
 		     De 4 PM a 6 PM-->Estudiar Informatica II
 		     De 6:30 PM a 10:30 PM-->Espacio para tareas
 
 12 de Marzo / Domingo-->Iniciar dia 9/10 AM
-		     De 10 AM a 12 PM--> Estudiar Geometria V y A
-		     De 1 PM a 3 PM-->Estudiar Algebra y Trigonometria
+		     De 10 AM a 12 PM--> Estudiar Geometria V y A // Estudie Calculo I
+		     De 1 PM a 3 PM-->Estudiar Algebra y Trigonometria // Estudie Calculo I
 		     De 4 PM a 5 PM-->Estudiar Informatica II
-		     De 6 PM a 10:30 PM-->Espacio para tareas
+		     De 6 PM a 10:30 PM-->Espacio para tareas // No lo hice
